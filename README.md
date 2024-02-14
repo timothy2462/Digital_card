@@ -4,7 +4,7 @@
 
 This is a practice webpage created to learn the use of React components. The webpage is fully responsive and can be previewed using the link above.
 
-![](https://github.com/Daniel-Ezekiel/digital-business-card/blob/main/preview.png)
+
 
 ## Features
 
