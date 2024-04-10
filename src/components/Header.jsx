@@ -7,7 +7,7 @@ function Header() {
     <header>
       <img src={profilePhoto} alt="card--logo" />
       <h1 className="card--owner">Timothy Akobundu</h1>
-      <p className="card--title">Frontend Developer</p>
+      <p className="card--title">Software Developer</p>
       <a className="card--url" href="" target="_blank">
         <Link />
         timothy.me
@@ -24,7 +24,7 @@ function Header() {
           className="btn--linkedin"
           icon={<LinkedIn />}
           label="LinkedIn"
-          url="#"
+          url="https://www.linkedin.com/in/timothy-akobundu-73b1b3241/"
           target="_blank"
         />
       </div>

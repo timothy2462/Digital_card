@@ -5,14 +5,14 @@ function Footer() {
     <footer>
       <a
         className="footer--url"
-        href="#"
+        href="https://github.com/timothy2462"
         target="_blank"
       >
         <GitHub />
       </a>
       <a
         className="footer--url"
-        href="#"
+        href="https://twitter.com/Timostickz04"
         target="_blank"
       >
         <Twitter />
