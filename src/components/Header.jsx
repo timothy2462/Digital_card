@@ -1,11 +1,11 @@
 import { Email, Link, LinkedIn } from '@mui/icons-material';
-import profilePhoto from '../assets/profile-photo.jpg';
+import profilePhoto from '../assets/timothy_profile.jpg';
 import Button from './Button';
 
 function Header() {
   return (
     <header>
-      {/* <img src={profilePhoto} alt="card--logo" /> */}
+      <img src={profilePhoto} alt="card--logo" />
       <h1 className="card--owner">Timothy Akobundu</h1>
       <p className="card--title">Frontend Developer</p>
       <a className="card--url" href="" target="_blank">
