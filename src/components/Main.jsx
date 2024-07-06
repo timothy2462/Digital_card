@@ -1,25 +1,25 @@
-import Info from './Info';
+import Info from "./Info";
 
 function Main() {
   const about = [
-    'I am a mobile engineer and frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.',
+    "Experienced software developer with 2 years of expertise in crafting innovative solutions for various domains, specializing in frontend and mobile app development, i build platforms and apps that are easy to use and visually appealing to end-users for businesses and corporate entities..",
   ];
 
   const interest = [
-    'Food expert',
-    'Music scholar',
-    'Reader',
-    'Internet fanatic',
-    'Tech Entrepreneur',
-    'Travel geek',
-    'Pop culture ninja',
-    'Coffee fanatic',
+    "Food expert",
+    "Music scholar",
+    "Reader",
+    "Internet fanatic",
+    "Tech Entrepreneur",
+    "Travel geek",
+    "Pop culture ninja",
+    "Coffee fanatic",
   ];
 
   return (
     <main>
-      <Info title="About" details={about.join('')} />
-      <Info title="Interests" details={interest.join('. ')} />
+      <Info title="About" details={about.join("")} />
+      <Info title="Interests" details={interest.join(". ")} />
     </main>
   );
 }
